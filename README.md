@@ -1,5 +1,5 @@
 <div align="center">
-Выберите язык / Choose prefered language
+Выберите язык / Choose prefered language 
   
 [Русский](README.ru.md) | <b>English</b>
 
